@@ -16,15 +16,15 @@
 		"neutralHello": "Мур?",
 		"neutralLetsHearIt": ["Рассказывай, милашка"],
 		"neutralNo": ["Нях, отказ"],
-		"neutralYes": [" "],
+		"neutralYes": ["Дя!"],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "Что тебе надо? ÙwÚ",
+		"hateLetsHearIt": ["Шшш, говори быстро"],
+		"hateNo": ["Нет!!!"],
+		"hateYes": ["Нуу... я не против~"],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "Это было жарко...",
+		"tradeRequest": "Посмотри что припас в чулочках!",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
